@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=600&height=60&lines=Hello+World,+%F0%9F%91%8B+I'm+Thiago+Amparo!;And+welcome+to+my+dev+lab+%F0%9F%A7%AA.;%F0%9F%9A%80+Where+every+keystroke+becomes+a+command+%F0%9F%9A%80.)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/thiagoamparo/thiagoamparo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagoamparo/thiagoamparo/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagoamparo/thiagoamparo/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/thiagoamparo/thiagoamparo/output/snake.svg" />
+</picture>
 
 <br clear="left"/>
 
@@ -12,10 +16,10 @@
 
 - 🎓 Graduação em Ciência da Computação  
 - 🧠 Especialista em TI com foco em infraestrutura, desenvolvimento e segurança  
-- 🛠️ Entusiasta em criar soluções eficientes, escaláveis e com mínimo uso de dependências  
-- 🔒 Experiência em segurança, automação e manutenção de sistemas robustos  
-- 🌍 Explorando novas tecnologias e soluções inovadoras  
-- 🤝 Colaborativo, sempre buscando integração eficiente de sistemas  
+- 🛠️ Entusiasta em criar soluções eficientes, escaláveis e com mínimo uso de dependências e máxima eficiência
+- 🔒 Experiência em políticas de segurança, automação de processos e manutenção de sistemas robustos  
+- 🌍 Explorando constantemente novas tecnologias e desenvolvendo soluções de software inovadoras  
+- 🤝 Enfrentando os desafios dinâmicos do desenvolvimento de software e contribuindo para o crescimento da comunidade tecnológica  
 
 ###
 
@@ -27,8 +31,6 @@
   Estou constantemente em busca de oportunidades para promover a inovação e melhorar continuamente os processos. <br><br>
   Visando uma abordagem colaborativa, considero a integração eficaz de sistemas e a entrega de soluções tecnológicas de alta qualidade aspectos centrais do meu trabalho.
 </p>
-
-<br clear="right"/>
 
 ---
 
